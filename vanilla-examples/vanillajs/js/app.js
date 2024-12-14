@@ -1,7 +1,6 @@
 /*global $$, app */
 (function () {
 	'use strict';
-
 	/**
 	 * Sets up a brand new Todo list.
 	 *
